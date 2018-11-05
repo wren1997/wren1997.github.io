@@ -5,6 +5,7 @@ subtitle:   Android
 date:       2018-11-5
 author:     王政乔
 catalog: true
+header-img: img/post-bg-android.png
 tags:
     - Android
     - Handle
